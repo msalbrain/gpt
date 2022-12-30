@@ -1,0 +1,5 @@
+https://chat.openai.com/chat GET
+	A request was first made to this endpoint 
+
+REQUEST
+_ga, __cf_bm, __Host-next-auth.csrf-token, _cfuvid, __Secure-next-auth.callback-url, cf_clearance, __Secure-next-auth.session-token
